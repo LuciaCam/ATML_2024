@@ -5,3 +5,4 @@ numpy
 matplotlib
 nltk
 scikit-learn
+scikit-learn-intelex
