@@ -3,6 +3,7 @@ pandas
 pyarrow
 numpy
 matplotlib
+seaborn
 nltk
 scikit-learn
 scikit-learn-intelex
